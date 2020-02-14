@@ -8,7 +8,7 @@
   <tbody>
    <tr>
      <td>
-       Anthony Arendt holds a joint appointment at the University of Washington as a Principal Research Scientist at the <a href="https://www.apl.washington.edu/">Applied Physics Laboratory</a> and a Senior Research Fellow at the <a href="https://escience.washington.edu">eScience Institute</a>. Anthony conducts research on the impacts of glacier change on water resources and sea level using remote sensing datasets. He is interested in empowering scientists to work collaboratively toward solving complex enviornmental problems through data sharing and the building of open source software. 
+       Anthony Arendt holds a joint appointment at the University of Washington as a Principal Research Scientist at the <a href="https://www.apl.washington.edu/">Applied Physics Laboratory</a> and a Senior Research Fellow at the <a href="https://escience.washington.edu">eScience Institute</a>. Anthony conducts research on the impacts of glacier change on water resources and sea level using remote sensing datasets. He is interested in empowering scientists to work collaboratively toward solving complex enviornmental problems through data sharing and the building of open source software. Anthony was a PI and Science Team Lead for the 2016-2019 NASA HiMAT.
        </td>
        <td><img style='height: 100%; width: 100%; object-fit: contain' src="../images/AnthonyArendt_photo.png" alt="portrait of Anthony Arendt"></td>
    </tr>

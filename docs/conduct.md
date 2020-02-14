@@ -6,7 +6,7 @@ Professional societies have recently updated their code of conduct policies, for
 
 ## Norms of Behavior
 
-In addition to reaffirming a commitment to codes of conduct, we recommend teams also develop a set of behavioral norms. These norms articulate intentions around how individuals aspire to conduct themselves so as to maximize opportunities for collaboration and the building of successful relationsihps. 
+In addition to reaffirming a commitment to codes of conduct, we recommend teams also develop a set of behavioral norms. These norms articulate intentions around how individuals aspire to conduct themselves so as to maximize opportunities for collaboration and the building of successful relationships. 
 
 !!! note "Short experiments in collaboration"
     The University of Washington hosts week-long "hacks" that focus on building software in collaborative settings. Acceptance into the program is contingent on each participant explicitly agreeing to abide by the workshop [code of conduct](https://icesat-2hackweek.github.io/wiki/code_of_conduct.html). Then throughout the event, the organizers lead participants in exploring [norms of behavior](https://icesat-2hackweek.github.io/wiki/learning_community.html) that foster positive learning communities.

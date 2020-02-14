@@ -9,7 +9,7 @@ Once a team is formed the building of collaborative structures can begin. One of
 
 ## Science Traceability Matrix
 
-As everyone gets more clear on their objectives and proposed activities, it helps to generate a high-level roadmaps that succinctly describes what each team plans to do. One way to achieve this is to invite each team to build a Science Traceability Matrix. We borrow this concept from NASA mission planning activities that link science objectives to functional requirements and specifications of satellites. 
+As everyone gets more clear on their objectives and proposed activities, it helps to generate a high-level roadmap that succinctly describes what each team plans to do. One way to achieve this is to invite each team to build a Science Traceability Matrix. We borrow this concept from NASA mission planning activities that link science objectives to functional requirements and specifications of satellites. 
 
 Here is a sample Science Traceability Matrix from HiMAT:
 

@@ -55,6 +55,6 @@ A better approach is to set up a shared team drive so that no one needs to be be
 
 ## Communication Frequency
 
-Deciding on the frequency of team communications is delicate balancing act. Many researchers shun having to get on "yet another team call", but we feel this generally results from a lack of design thinking that goes into setting up team communications. If team administrators build a reputation of designing purposeful exchanges that are respectful of people's time, and that are only as long as they need to be to cover the necessary content, then more people will attend. 
+Deciding on the frequency of team communications is a delicate balancing act. Many researchers shun having to get on "yet another team call", but we feel this generally results from a lack of design thinking that goes into setting up team communications. If team administrators build a reputation of designing purposeful exchanges that are respectful of people's time, and that are only as long as they need to be to cover the necessary content, then more people will attend. 
 
 The first [In person team meting](InPersonMeetings.md) is one in which all team members should be encouraged to attend. This meeting is an opportunity to decide on the frequency of team communications, establish a [code of conduct](conduct.md) and come to agreements about [authorship](authorship.md) and [data sharing](data.md).
